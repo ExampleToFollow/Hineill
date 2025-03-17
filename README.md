@@ -1,61 +1,83 @@
-# 👨‍💻 Hineill David Cespedes Espinoza
+# Hineill David Cespedes Espinoza
 
-## 📫 Contacto
+## About Me
+Telecommunications Engineering student with strong experience in communications systems and application development. Passionate about tackling challenges and continuously learning from each new experience.
+
+## Contact
 - 📧 Email: hineill.cespedes@pucp.edu.pe
-- 📞 Teléfono: 920821483
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hineill-david-cespedes-espinoza-73b44024a)
+- 📱 Phone: 920821483
+- 🔗 LinkedIn: [Hineill David Cespedes Espinoza](https://www.linkedin.com/in/hineill-david-cespedes-espinoza-73b44024a)
 
-## 🏫 Educación
-- **Pontificia Universidad Católica del Perú (PUCP)**  
-  *Alumno de 7mo ciclo en Ingeniería de las Telecomunicaciones*  
-  *Marzo 2021 - Presente*  
-  
-- **ICPNA - Idioma Inglés**  
-  *Nivel Avanzado (Marzo 2019 - Diciembre 2023)*
+## Education
+- **PUCP** - Telecommunications Engineering (7th Semester) | 2021 - Present
+- **ICPNA** - Advanced English | 2019 - 2023
 
-## 💡 Sobre mí
-A lo largo de los últimos ciclos dentro de mi Facultad, he tenido la oportunidad de desarrollar diversos proyectos relacionados con la conectividad de sistemas de comunicaciones y el desarrollo de aplicaciones. Me considero una persona con una gran capacidad de afrontar desafíos, siempre gustoso de aprender más con cada experiencia.
+## Technical Skills
+```
+├── Programming Languages
+│   ├── Java (Advanced)
+│   ├── Python (Advanced)
+│   ├── JavaScript (Intermediate)
+│   ├── HTML & CSS (Intermediate)
+│   └── Kotlin (Intermediate)
+│
+├── Cloud & DevOps
+│   ├── AWS (Intermediate)
+│   ├── Google Cloud Platform (Intermediate)
+│   ├── Docker (Intermediate)
+│   ├── Kubernetes (Intermediate)
+│   └── Azure (Basic)
+│
+├── Databases
+│   ├── MySQL (Intermediate)
+│   └── Firebase (Intermediate)
+│
+├── Tools & Frameworks
+│   ├── Git (Intermediate)
+│   ├── Postman (Intermediate)
+│   ├── Android Studio (Intermediate)
+│   ├── Linux (Intermediate)
+│   ├── Matlab (Intermediate)
+│   ├── JUnit & Mockito (Basic)
+│   └── FlutterFlow (Basic)
+│
+└── Methodologies
+    └── Scrum (Jira)
+```
 
-## 🛠️ Habilidades y Conocimientos
-- 📌 **Metodologías y Organización**: SCRUM | Jira
-- 💻 **Lenguajes de Programación**: Java (POO) | Python | JavaScript | Kotlin | Matlab
-- ☁️ **Cloud Computing**: Google Cloud Platform | AWS (Intermedio) | Azure (Básico)
-- 🐳 **DevOps & Contenedores**: Docker | Kubernetes
-- 📊 **Bases de Datos**: MySQL | Firebase | SQL | NoSQL
-- 🖥️ **Desarrollo Web y Mobile**: Spring Boot | React | Android Studio (Java & Kotlin) | FlutterFlow (Básico)
-- 🔍 **Testing y Seguridad**: JUnit | Mockito | Git (Intermedio)
-- ⚙️ **Herramientas y Otras Tecnologías**: Linux | Postman | Cloud Messaging | WebSockets
+## Projects
 
-## 🚀 Proyectos Destacados
-### 📌 Sistema para la gestión de una farmacia *(2024 - PUCP)*
-- Desarrollo de una aplicación web con **Spring Boot** para la gestión de medicamentos.
-- Implementación de un **ChatBot basado en AWS Bedrock** para recomendaciones de medicamentos y procesamiento automatizado de órdenes de compra.
-- Creación de **Dashboards interactivos** con métricas clave utilizando SQL, JPA y JS.
-- Desarrollo de un sistema de autenticación basado en **Spring Security** con control de acceso por roles.
-- Uso de **Docker y AWS (EC2, RDS, S3, Cloud Messaging)** para una infraestructura escalable.
-- **Metodología SCRUM**, control de versiones con GitHub y testeo con Postman.
+### 📱 Food Delivery Management System
+**PUCP - IoT Services and Applications Course | 2024**
+- Developed a mobile application using Android Studio (Java) to manage restaurant orders
+- Implemented NoSQL database structure in Firebase for efficient data storage
+- Integrated Firebase Authentication for secure access control
+- Designed real-time order tracking system using Firebase Realtime Database
+- Implemented push notifications with Firebase Cloud Messaging
+- Utilized GitHub for version control in a team environment
 
-### 📌 Sistema para la gestión de pedidos de comida *(2024 - PUCP)*
-- Aplicación móvil en **Android Studio (Java)** para gestionar pedidos a restaurantes.
-- Implementación de **Firebase Realtime Database** para seguimiento en tiempo real.
-- Autenticación con **Firebase Authentication** y **notificaciones push con Firebase Cloud Messaging**.
-- Diseño de listas dinámicas con **RecyclerView**.
+### 💊 Pharmacy Management System
+**PUCP - ICT Services Management Course | 2024**
+- Developed a web application with Spring Boot for medication management
+- Implemented AI-powered chatbot using AWS Bedrock for automated recommendations
+- Created interactive dashboards for real-time metrics visualization
+- Developed notification system using WebSockets and JavaScript
+- Utilized AWS services (Cloud Messaging, RDS, S3)
+- Implemented role-based access control with Spring Security
+- Conducted API testing with Postman and unit testing
+- Worked in a Scrum team using Jira
 
-### 📌 Sistema para la gestión de personal y eventos *(2023 - PUCP)*
-- Desarrollo de backend con **Java (Spring Boot)** y **MySQL**.
-- Implementación de un sistema de gestión de eventos con asignación de coordinadores y carga de imágenes.
-- Despliegue en **Google Cloud Platform (GCP - Cloud Engine)**.
-- Uso de **Git y metodologías ágiles** para trabajo colaborativo.
+### 🎪 Event Management System
+**PUCP - Web Engineering for Telecommunications Course | 2023**
+- Designed and developed a Java backend solution with MySQL database
+- Implemented user management and event coordination features
+- Deployed application on Google Cloud Platform
+- Used Git for collaborative version control
 
-## 🎤 Experiencia y Logros
-- 📌 **Miembro de la mesa directiva de AITEL (Asociación de Ingenieros y Estudiantes de Telecomunicaciones) - PUCP** *(Marzo 2024 - Presente)*
-  - Organización de eventos y conferencias en la comunidad académica.
+## Leadership & Activities
+- **AITEL** (Association of Engineers and Telecommunications Students) Board Member | March 2024
+- Organized and led "Introduction to Ethical Hacking" workshop for STEM students | April 2024
 
-- 📌 **Organizador del taller "Introducción al Hacking Ético" - PUCP (2024)**
-  - Introducción a ciberseguridad y hacking con **Kali Linux** para estudiantes STEM.
-
-## 📈 GitHub Stats
-![Hineill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hineill&show_icons=true&theme=radical)
-
----
-📌 *Siempre abierto a nuevas oportunidades y colaboraciones.* ¡No dudes en contactarme! 🚀
+## Languages
+- Spanish (Native)
+- English (Advanced)
